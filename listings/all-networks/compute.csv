@@ -1,0 +1,4 @@
+slug,provider,offer,actionButtons,tag,description,price,planType,planName,starred,resourceTypes,provisioningMode,workloadTypes,hardware,interfaces,pricingUnit,minimumCommitment
+aethir-earth,,!offer:aethir-earth,,,,,,,,,,,,,,
+akash-compute-marketplace,,!offer:akash-compute-marketplace,,,,,,,,,,,,,,
+io-net-vm-on-demand,,!offer:io-net-vm-on-demand,,,,,,,,,,,,,,
